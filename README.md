@@ -7,6 +7,6 @@ In this project I am trying to build a little Pixel-Art Game using pygame. I cre
 * The Landscape picture is the Background and the main_char picture is the cahracter I have created
 * Of course you can change both, but than change also the directory to instantiate both
 
-### Object Directory
+### Objects
 * I created some objects, which you can integrate into the script, to make the game more fun
 * If you want you can change the landscape if the character touches the chest or make more using the knife... 
