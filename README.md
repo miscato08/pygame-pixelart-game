@@ -8,3 +8,7 @@ In this project I am trying to build a little Pixel-Art Game using pygame. I cre
 ### Main
 * The main.py file is the only file which runs code. Here I descriptivly created everything
 * If runned correctly a Pygame window will opens, where you can move the character using W, A, S, D
+
+### Object Directory
+* I created some objects, which you can integrate into the script, to make the game more fun
+* If you want you can change the landscape if the character touches the chest or make more using the knife... 
